@@ -1,0 +1,175 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070b19" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#050814" />
+    </linearGradient>
+
+    <linearGradient id="primaryGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <linearGradient id="accentCyan" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="100%" stop-color="#4facfe" />
+    </linearGradient>
+
+    <linearGradient id="pillGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.9" />
+    </linearGradient>
+
+    <!-- Glowing Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="15" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 800;
+      font-size: 44px;
+      letter-spacing: -0.5px;
+    }
+    .subtitle {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 500;
+      font-size: 20px;
+      fill: #94a3b8;
+    }
+    .tagline {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 600;
+      font-size: 13px;
+      letter-spacing: 2px;
+      fill: #38bdf8;
+      text-transform: uppercase;
+    }
+    .pill-text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 600;
+      font-size: 14px;
+      fill: #e2e8f0;
+    }
+
+    /* Subtle Animated Glow and Pulses in the Background */
+    @keyframes pulseOrb {
+      0% { transform: scale(1) translate(0, 0); opacity: 0.35; }
+      50% { transform: scale(1.18) translate(25px, -15px); opacity: 0.65; }
+      100% { transform: scale(1) translate(0, 0); opacity: 0.35; }
+    }
+    @keyframes pulseOrb2 {
+      0% { transform: scale(1.1) translate(0, 0); opacity: 0.4; }
+      50% { transform: scale(0.9) translate(-20px, 20px); opacity: 0.7; }
+      100% { transform: scale(1.1) translate(0, 0); opacity: 0.4; }
+    }
+    @keyframes screenBlink {
+      0%, 100% { opacity: 0.8; }
+      50% { opacity: 1; }
+    }
+    @keyframes floatPill {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-5px); }
+    }
+
+    .orb-1 {
+      animation: pulseOrb 9s ease-in-out infinite;
+      transform-origin: center;
+    }
+    .orb-2 {
+      animation: pulseOrb2 11s ease-in-out infinite;
+      transform-origin: center;
+    }
+    .display-screen {
+      animation: screenBlink 4s ease-in-out infinite;
+    }
+    .float-item-1 { animation: floatPill 6s ease-in-out infinite; }
+    .float-item-2 { animation: floatPill 7s ease-in-out infinite 1s; }
+    .float-item-3 { animation: floatPill 6.5s ease-in-out infinite 2s; }
+    .float-item-4 { animation: floatPill 7.5s ease-in-out infinite 3s; }
+  </style>
+
+  <!-- Canvas Background -->
+  <rect width="1200" height="420" rx="20" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="2" />
+
+  <!-- Background Animated Glowing Orbs (Strictly in Background) -->
+  <g opacity="0.45">
+    <circle class="orb-1" cx="200" cy="90" r="140" fill="#38bdf8" filter="url(#glow)" />
+    <circle class="orb-2" cx="1020" cy="180" r="160" fill="#818cf8" filter="url(#glow)" />
+    <circle class="orb-1" cx="620" cy="380" r="130" fill="#c084fc" filter="url(#glow)" />
+  </g>
+
+  <!-- Cyber Grid Pattern Lines (Background Accent) -->
+  <g opacity="0.12" stroke="#60a5fa" stroke-width="1">
+    <line x1="0" y1="70" x2="1200" y2="70" />
+    <line x1="0" y1="140" x2="1200" y2="140" />
+    <line x1="0" y1="210" x2="1200" y2="210" />
+    <line x1="0" y1="280" x2="1200" y2="280" />
+    <line x1="0" y1="350" x2="1200" y2="350" />
+    <line x1="150" y1="0" x2="150" y2="420" />
+    <line x1="300" y1="0" x2="300" y2="420" />
+    <line x1="450" y1="0" x2="450" y2="420" />
+    <line x1="600" y1="0" x2="600" y2="420" />
+    <line x1="750" y1="0" x2="750" y2="420" />
+    <line x1="900" y1="0" x2="900" y2="420" />
+    <line x1="1050" y1="0" x2="1050" y2="420" />
+  </g>
+
+  <!-- Foreground Content: Badge / Tagline -->
+  <g transform="translate(60, 60)">
+    <rect width="280" height="32" rx="16" fill="#0f172a" stroke="#0284c7" stroke-width="1.5" />
+    <circle cx="18" cy="16" r="5" fill="#38bdf8" class="display-screen" />
+    <text x="32" y="21" class="tagline">Enterprise &amp; Open Source Fleet</text>
+  </g>
+
+  <!-- Foreground Content: Header & Subtitle -->
+  <g transform="translate(60, 140)">
+    <text x="0" y="0" class="title" fill="url(#primaryGrad)">Digital Signage &amp; Kiosk Fleet Management</text>
+    <text x="0" y="44" class="subtitle">Curated CMS Platforms, Kiosk Compositors, Raspberry Pi Runners &amp; Remote Display Schedulers</text>
+  </g>
+
+  <!-- Floating Feature Pills (Non-Obtrusive, Positioned at Bottom) -->
+  <g transform="translate(60, 260)">
+    <!-- Pill 1: Digital Signage CMS -->
+    <g class="float-item-1" transform="translate(0, 0)">
+      <rect width="245" height="52" rx="14" fill="url(#pillGrad)" stroke="#38bdf8" stroke-width="1.5" filter="url(#softGlow)" />
+      <text x="24" y="32" class="pill-text">📺 Digital Signage CMS</text>
+    </g>
+
+    <!-- Pill 2: Kiosk Mode Lockdown -->
+    <g class="float-item-2" transform="translate(265, 0)">
+      <rect width="250" height="52" rx="14" fill="url(#pillGrad)" stroke="#818cf8" stroke-width="1.5" />
+      <text x="24" y="32" class="pill-text">🔒 Kiosk OS &amp; Wayland Lock</text>
+    </g>
+
+    <!-- Pill 3: Raspberry Pi & Linux -->
+    <g class="float-item-3" transform="translate(535, 0)">
+      <rect width="265" height="52" rx="14" fill="url(#pillGrad)" stroke="#c084fc" stroke-width="1.5" />
+      <text x="24" y="32" class="pill-text">🥧 Raspberry Pi &amp; Linux Nodes</text>
+    </g>
+
+    <!-- Pill 4: HDMI-CEC & Multi-Zone -->
+    <g class="float-item-4" transform="translate(820, 0)">
+      <rect width="255" height="52" rx="14" fill="url(#pillGrad)" stroke="#06b6d4" stroke-width="1.5" />
+      <text x="24" y="32" class="pill-text">⚡ Remote Sync &amp; CEC Control</text>
+    </g>
+  </g>
+
+  <!-- Bottom Accent Status Line -->
+  <g transform="translate(60, 360)">
+    <line x1="0" y1="0" x2="1080" y2="0" stroke="#334155" stroke-width="1" />
+    <circle cx="8" cy="20" r="4" fill="#10b981" />
+    <text x="22" y="24" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" fill="#64748b">Actively Curated Ecosystem • Production Verified • Open Source &amp; Enterprise SaaS</text>
+  </g>
+</svg>

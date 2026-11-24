@@ -1,207 +1,203 @@
-# Awesome-Digital-Signage-Kiosk-Display-Management
+<div align="center">
 
-markdown
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Digital Signage &amp; Kiosk Display Management Banner" width="100%" />
+</p>
 
-## Top Digital Signage & Kiosk Display Management Ecosystem
+# 📺 Awesome Digital Signage & Kiosk Display Management 🚀
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Signage-Kiosk-Display-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Signage-Kiosk-Display-Management?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Signage-Kiosk-Display-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Digital-Signage-Kiosk-Display-Management?style=social" alt="GitHub forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Signage-Kiosk-Display-Management/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Digital-Signage-Kiosk-Display-Management" alt="GitHub issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Signage-Kiosk-Display-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+<p align="center">
+  <strong>Curated directory of top-tier Digital Signage CMS platforms, Kiosk Lockdown Compositors, Raspberry Pi Screen Runners, Smart TV Players, and Remote Display Fleet Schedulers.</strong>
+</p>
 
-**Curated List of SaaS/Hosted Platforms & Open-Source GitHub Projects**  
+<p align="center">
+  <em>Last updated: November 2026 • Production-grade open-source tools and enterprise SaaS software for digital menu boards, interactive touch kiosks, video walls, and unattended IoT screens.</em>
+</p>
 
-*Focused on Digital Signage CMS, Kiosk Mode Browser/OS Lockdown, Raspberry Pi & Linux Screen Fleet Management, Smart TV Players & Remote Display Scheduling*  
+</div>
 
-**Last updated: November 2026**
+---
 
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS / Hosted Platforms](#-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Frameworks & Architecture Guide](#️-frameworks--architecture-guide)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
+- [☕ Support](#-support)
+- [⚠️ Disclaimer & Production Checklist](#️-disclaimer--production-checklist)
 
-This repository tracks notable **SaaS/hosted platforms** and **open-source projects** for **Digital Signage & Kiosk Display Management**. These tools schedule, broadcast, synchronize, lock down, and remotely monitor digital menu boards, retail displays, office dashboards, museum kiosks, and Raspberry Pi / Linux / Android screen fleets.
+---
 
+## 📊 Sector Overview & Market Dynamics
 
+The global digital signage and kiosk display management market is valued at **$29 billion to $34 billion** in 2026, advancing at a **7% to 9% CAGR** fueled by cloud signage transitions, smart retail media networks, workplace KPI screens, and programmatic digital out-of-home (DOOH) networks.
 
-**Examples** include Yodeck, ScreenCloud, Raydiant, OptiSigns, NoviSign, TelemetryTV, Play Digital Signage, PosterBooking, OnSign TV, Scala Digital Signage, and jxlarrea/kiosk-satellite (the category leaders and popular runtimes). 
+The ecosystem displays a clear architectural bifurcation:
+- **Commercial Display Hardware (Moderately Concentrated):** Commercial panels, System-on-Chip (SoC) displays, and smart TVs are moderately concentrated—with industry titans like **Samsung Electronics (Tizen)** and **LG Electronics (webOS Signage)** controlling over 50% of commercial display revenue.
+- **Software CMS & Kiosk Management (Highly Fragmented):** Conversely, the Content Management System (CMS), browser lockdown, and remote device management layers are **highly fragmented**. Hundreds of specialized SaaS vendors and open-source projects thrive across distinct niches (retail POS menus, industrial Grafana dashboards, school hall broadcasts, and museum interactives) with no single platform monopolizing the market.
 
+---
 
+## 🏢 SaaS / Hosted Platforms
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosted digital signage CMS (`Xibo`, `Screenly / Anthias`, `Concerto`, `LibreSignage`, `PiSignage`), lightweight kiosk display controllers & browser lockdown runners (`jxlarrea/kiosk-satellite`, `FullPageOS`, `Porteus Kiosk`, `Cage`), and display-wall/dashboard broadcasters (`dakboard-style open alternatives like MagicMirror²`) — ideal for IT sysadmins, retail/hospitality operators, schools, museums, and Raspberry Pi makers.
+Below is a breakdown of top commercial cloud digital signage CMS providers, detailing starting subscription costs, free tier/trial limitations, and estimated company scale (sorted descending by revenue/valuation).
 
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Support & Share](#support--share)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
-
-The global digital signage market is estimated at **$29 billion to $34 billion** in 2026, growing at a steady 7–9% CAGR driven by cloud migration, smart retail media, and programmatic DOOH infrastructure. The sector displays a bifurcated market structure: commercial display hardware manufacturing is **moderately concentrated** (with display giants like Samsung and LG capturing over 50% of the market), whereas the cloud CMS software and device management layer is **highly fragmented**, populated by hundreds of specialized SaaS providers with no single vendor dominating the long tail of deployments.
-
-## SaaS/Hosted Platforms
-
-| Platform | Description | Starting Price | Free Tier / Trial Limits | Estimated Scale (Revenue / Valuation) |
+| Platform | Description | Starting Price | Free Tier / Trial Limits | Company Scale (Revenue / Valuation) |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Raydiant](https://raydiant.com)** | Cloud-managed retail and restaurant experience platform uniting digital menu boards, interactive kiosks, background audio, and POS integrations. | Starts at **$49.00/screen/month** (Standard plan) | Free trial available on request / demo (no permanent free tier) | **~$100M–$250M valuation** (~$31M–$33M ARR; raised $50M+) |
-| **[ScreenCloud](https://screencloud.com)** | Enterprise cloud digital signage and workplace communication platform integrating Canva, Power BI, Slack, Google Workspace, and ChromeOS/Android/Windows players. | Starts at **$20.00/screen/month** (Core plan, billed annually) | 14-day free trial (up to 3 screens, no credit card required; no permanent free tier) | **~$29.3M annual revenue** (FY2025 UK Companies House filings) |
-| **[Scala Digital Signage (STRATACACHE)](https://scala.com)** | Enterprise retail and public-venue digital signage ecosystem delivering omnichannel media scheduling, sensor/POS-triggered content, and large-scale display fleet governance. | Custom enterprise quotes (~**$20.00+/screen/month** / player license equivalents) | Custom sales proof-of-concept / demo only (no permanent free tier) | **~€18.5M annual revenue** (~€8M ARR; acquired for SEK 265M / ~$28M by Vertiseit) |
-| **[Yodeck](https://yodeck.com)** | Cloud digital signage platform renowned for plug-and-play Raspberry Pi players, multi-zone layout scheduling, live web dashboards, and remote screen health monitoring. | Starts at **$8.00/screen/month** (Basic plan, billed annually) | Permanent free tier for exactly **1 screen** (reverts to paid for 2+ screens); 30-day trial for up to 5 screens | **~$15M–$25M annual revenue** (Deloitte Fast 500 / Inc. 5000, 350k+ screens) |
-| **[OptiSigns](https://optisigns.com)** | Cloud digital signage management suite supporting Fire TV, Android, Raspberry Pi, Windows, and Linux screens with 100+ app widgets and split-screen zoning. | Starts at **$10.00/screen/month** (Standard plan; $9.00/mo billed annually) | Permanent free tier for up to **3 screens** (includes watermark, 25 apps, 1 GB storage); 14-day paid trial | **~$5M–$10M annual revenue** (Estimated SMB scale, 50k+ screens) |
-| **[NoviSign](https://novisign.com)** | Cloud digital signage studio offering drag-and-drop template design, interactive touch-kiosk workflows, social/RSS tickers, and offline media caching. | Starts at **$14.00/screen/month** (Single screen plan, billed annually) | 30-day free trial (full features, no credit card required; no permanent free tier) | **~$6M annual revenue** |
-| **[TelemetryTV](https://telemetrytv.com)** | Cloud digital signage and real-time BI dashboard broadcasting platform engineered for operational KPI screens, internal communications, and ChromeOS/Linux fleets. | Starts at **$8.00/device/month** (TelemetryOS baseline; Core at $18.00/device/mo) | 14-day free trial (access to device logs and proof-of-play; no permanent free tier) | **~$3M–$5M annual revenue** (Bootstrapped SMB scale) |
-| **[OnSign TV](https://onsign.tv)** | Cross-platform cloud digital signage CMS featuring granular playback proof-of-play reports, remote screen screenshots, conditional triggers, and Android/Windows/Linux players. | Starts at **$19.99/player/month** (Core plan, month-to-month) | 14-day free trial (full feature access, no credit card required; no permanent free tier) | **~$3M annual revenue** (Bootstrapped SMB scale) |
-| **[PosterBooking](https://posterbooking.com)** | Accessible cloud digital signage service designed for Amazon Fire TV Sticks, Android TVs, and Raspberry Pi screens with playlist scheduling and white-label options. | Starts at **$6.49/screen/month** (Business plan for additional screens) | Free plan for up to **10 screens** for first 3 months (watermarked); transitions to paid afterwards | **~$1M–$3M annual revenue** (Bootstrapped UK company) |
-| **[Play Digital Signage](https://playsignage.com)** | Browser-based cloud digital signage editor and multi-OS player management system supporting live HTML5 embeds, animations, and zone scheduling. | Starts at **$8.00/screen/month** (Essential plan; $12.00/mo for Pro) | Permanent free tier for **1 screen** (full CMS access); 10-day trial for multi-screen testing | **~$1M–$2.5M annual revenue** (Bootstrapped SMB scale) |
+| **[Raydiant](https://raydiant.com)** | 🛍️ Cloud-managed retail and restaurant experience platform uniting digital menu boards, interactive touch kiosks, background audio, and POS integrations. | Starts at **$49.00/screen/month** (Standard plan) | Free trial available upon sales request / demo (no permanent free tier) | **~$100M–$250M valuation** (~$31M–$33M ARR; $50M+ raised) |
+| **[ScreenCloud](https://screencloud.com)** | 🏢 Enterprise workplace communication & digital signage suite with 80+ integrations (Canva, Power BI, Slack, Google Workspace, ChromeOS, Windows). | Starts at **$20.00/screen/month** (Core plan, billed annually) | 14-day free trial (up to 3 screens, no credit card required; no permanent free tier) | **~$29.3M annual revenue** (FY2025 UK Companies House filings) |
+| **[Scala Digital Signage (STRATACACHE)](https://scala.com)** | 🌐 Heavy-duty enterprise retail and public-venue ecosystem delivering high-concurrency scheduling, sensor/camera triggers, and large-scale video wall governance. | Custom quotes (~**$20.00+/screen/month** per player license equivalent) | Custom sales proof-of-concept / demo only (no permanent free tier) | **~€18.5M annual revenue** (~€8M ARR; acquired for SEK 265M / ~$28M by Vertiseit) |
+| **[Yodeck](https://yodeck.com)** | 🥧 Plug-and-play cloud digital signage engine famous for Raspberry Pi players, multi-zone screen widgets, live web dashboards, and remote screen status telemetry. | Starts at **$8.00/screen/month** (Basic plan, billed annually) | Permanent free tier for exactly **1 screen** (reverts to paid for 2+ screens); 30-day trial for up to 5 screens | **~$15M–$25M annual revenue** (Deloitte Fast 500 / Inc. 5000, 350k+ screens) |
+| **[OptiSigns](https://optisigns.com)** | ⚡ Versatile cloud digital signage platform supporting Amazon Fire TV, Android, Raspberry Pi, Windows, and Linux with 100+ app widgets and split-screen zoning. | Starts at **$10.00/screen/month** (Standard plan; $9.00/mo billed annually) | Permanent free tier for up to **3 screens** (includes watermark, 25 apps, 1 GB storage); 14-day paid trial | **~$5M–$10M annual revenue** (50k+ active screens worldwide) |
+| **[NoviSign](https://novisign.com)** | 🎨 Drag-and-drop digital signage studio offering interactive touch kiosk workflows, social media tickers, emergency broadcasts, and offline media caching. | Starts at **$14.00/screen/month** (Single screen plan, billed annually) | 30-day free trial (full features, no credit card required; no permanent free tier) | **~$6M annual revenue** |
+| **[TelemetryTV](https://telemetrytv.com)** | 📈 BI dashboard broadcaster and digital signage platform engineered for real-time KPI screens, operational analytics, and automated ChromeOS/Linux fleets. | Starts at **$8.00/device/month** (TelemetryOS baseline; Core at $18.00/device/mo) | 14-day free trial (access to device logs and proof-of-play; no permanent free tier) | **~$3M–$5M annual revenue** (Bootstrapped SMB scale) |
+| **[OnSign TV](https://onsign.tv)** | 📡 Multi-platform cloud signage CMS featuring granular proof-of-play auditing, remote screen capture, conditional GPS/sensor triggers, and Android/Linux players. | Starts at **$19.99/player/month** (Core plan, month-to-month) | 14-day free trial (full feature access, no credit card required; no permanent free tier) | **~$3M annual revenue** (Bootstrapped SMB scale) |
+| **[PosterBooking](https://posterbooking.com)** | 🎯 Accessible cloud signage service designed for Fire TV Sticks, Android TVs, and Raspberry Pis with playlist scheduling and white-label reseller controls. | Starts at **$6.49/screen/month** (Business plan for additional screens) | Free plan for up to **10 screens** for first 3 months (watermarked); transitions to paid afterwards | **~$1M–$3M annual revenue** (Bootstrapped UK company) |
+| **[Play Digital Signage](https://playsignage.com)** | 🎬 Modern browser-based digital signage editor supporting rich HTML5 animations, Canva embeds, offline media caching, and cross-platform playback. | Starts at **$8.00/screen/month** (Essential plan; $12.00/mo for Pro) | Permanent free tier for **1 screen** (full CMS access); 10-day trial for multi-screen testing | **~$1M–$2.5M annual revenue** (Bootstrapped SMB scale) |
 
+---
 
+## 💻 Open-Source GitHub Projects
 
+Self-hosted digital signage CMS solutions, Wayland kiosk compositors, locked-down browser runners, and remote display utilities.
 
+*Sorted descending by GitHub stars count:*
 
-## Open-Source GitHub Projects
+- **[RustDesk](https://github.com/rustdesk/rustdesk)** [![GitHub stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=social&color=white)](https://github.com/rustdesk/rustdesk/stargazers)  
+  ⚡ Fast, open-source self-hosted remote desktop software written in Rust. The gold standard for securely remoting into unattended kiosk computers, digital signage players, and edge terminals behind firewalls without commercial subscriptions.
 
+- **[Homepage](https://github.com/gethomepage/homepage)** [![GitHub stars](https://img.shields.io/github/stars/gethomepage/homepage?style=social&color=white)](https://github.com/gethomepage/homepage/stargazers)  
+  📊 Highly customizable, lightweight, and modern service dashboard with instant Docker and API integrations, frequently deployed as an always-on status wall display in NOCs and IT office kiosks.
 
+- **[Dashy](https://github.com/lissy93/dashy)** [![GitHub stars](https://img.shields.io/github/stars/lissy93/dashy?style=social&color=white)](https://github.com/lissy93/dashy/stargazers)  
+  🚀 Ultimate open-source dashboard application equipped with 50+ built-in widgets, real-time status checking, multiple themes, and a visual UI editor tailored for wall-mounted information kiosks.
 
-- **[jxlarrea/kiosk-satellite](https://github.com)**  
+- **[MagicMirror²](https://github.com/MagicMirrorOrg/MagicMirror)** [![GitHub stars](https://img.shields.io/github/stars/MagicMirrorOrg/MagicMirror?style=social&color=white)](https://github.com/MagicMirrorOrg/MagicMirror/stargazers)  
+  🪞 Modular open-source smart mirror and information display platform with an ecosystem of hundreds of community plugins for calendars, weather forecast animations, RSS news, transit schedules, and IoT home controls.
 
-  Open-source kiosk display management and remote screen node project engineered for lightweight kiosk orchestration, URL/media display control, and distributed screen fleets.
+- **[FullPageOS](https://github.com/guysoft/FullPageOS)** [![GitHub stars](https://img.shields.io/github/stars/guysoft/FullPageOS?style=social&color=white)](https://github.com/guysoft/FullPageOS/stargazers)  
+  🥧 Purpose-built Raspberry Pi OS image that boots straight into a fullscreen, hardware-accelerated Chromium kiosk browser displaying any target URL—perfect for Grafana monitors and web-based signage.
 
+- **[Anthias — formerly Screenly OSE](https://github.com/Screenly/Anthias)** [![GitHub stars](https://img.shields.io/github/stars/Screenly/Anthias?style=social&color=white)](https://github.com/Screenly/Anthias/stargazers)  
+  📺 Most popular dedicated open-source Raspberry Pi digital signage software. Features an intuitive web UI and REST API to schedule 1080p/4K video loops, images, and live web assets.
 
+- **[jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite)** [![GitHub stars](https://img.shields.io/github/stars/jxlarrea/kiosk-satellite?style=social&color=white)](https://github.com/jxlarrea/kiosk-satellite/stargazers)  
+  🛰️ Dedicated open-source kiosk display manager and tablet lockdown runner built from the ground up for Home Assistant, wall dashboards, and distributed screen nodes.
 
-- **[Xibo (`xibosignage/xibo-cms`)](https://github.com)**  
+- **[Cage](https://github.com/cage-kiosk/cage)** [![GitHub stars](https://img.shields.io/github/stars/cage-kiosk/cage?style=social&color=white)](https://github.com/cage-kiosk/cage/stargazers)  
+  🔒 Minimalist, unbreakable Wayland kiosk compositor for Linux that runs a single maximized graphical application or browser with zero desktop chrome or window-switching escape vectors.
 
-  Flagship enterprise-grade open-source Digital Signage CMS featuring multi-zone layout designers, campaign scheduling, proof-of-play analytics, webhooks, and Docker/Linux/Windows/Android players.
+- **[Immich Kiosk](https://github.com/damongolding/immich-kiosk)** [![GitHub stars](https://img.shields.io/github/stars/damongolding/immich-kiosk?style=social&color=white)](https://github.com/damongolding/immich-kiosk/stargazers)  
+  🖼️ Lightweight, highly configurable slideshow application for displaying media assets from self-hosted Immich instances on browser screens, tablets, and smart picture frames.
 
+- **[TRMNL Firmware](https://github.com/usetrmnl/trmnl-firmware)** [![GitHub stars](https://img.shields.io/github/stars/usetrmnl/trmnl-firmware?style=social&color=white)](https://github.com/usetrmnl/trmnl-firmware/stargazers)  
+  📟 Open-source firmware for ultra-low-power E-Ink and ePaper display terminals, rendering battery-efficient desk, shelf, and wall signage updated via webhook plugins.
 
+- **[libCEC](https://github.com/Pulse-Eight/libcec)** [![GitHub stars](https://img.shields.io/github/stars/Pulse-Eight/libcec?style=social&color=white)](https://github.com/Pulse-Eight/libcec/stargazers)  
+  🔌 Industry-standard HDMI-CEC communication library and command-line utilities (`cec-client`) enabling automated cron scripts to power commercial TVs and monitors on and off over HDMI.
 
-- **[Anthias — formerly Screenly OSE (`Screenly/Anthias`)](https://github.com)**  
+- **[FreeKiosk](https://github.com/RushB-fr/freekiosk)** [![GitHub stars](https://img.shields.io/github/stars/RushB-fr/freekiosk?style=social&color=white)](https://github.com/RushB-fr/freekiosk/stargazers)  
+  📱 Open-source Android kiosk mode and tablet lockdown app for digital signage, interactive dashboards, and POS devices; free self-hosted alternative to Fully Kiosk Browser.
 
-  World's most popular open-source Raspberry Pi digital signage solution allowing users to schedule images, 1080p/4K videos, and live web pages through a clean web interface and REST API.
+- **[piSignage](https://github.com/colloqi/piSignage)** [![GitHub stars](https://img.shields.io/github/stars/colloqi/piSignage?style=social&color=white)](https://github.com/colloqi/piSignage/stargazers)  
+  🥧 Open-source Raspberry Pi digital signage player and Node.js management server supporting synchronized multi-screen playback, offline caching, and remote TV CEC power control.
 
+- **[Xibo](https://github.com/xibosignage/xibo)** [![GitHub stars](https://img.shields.io/github/stars/xibosignage/xibo?style=social&color=white)](https://github.com/xibosignage/xibo/stargazers)  
+  🏢 Enterprise-grade open-source Digital Signage CMS featuring multi-zone layout designers, campaign scheduling, proof-of-play analytics, webhooks, and Docker/Linux/Windows/Android players.
 
+- **[LibreSignage](https://github.com/eerotal/LibreSignage)** [![GitHub stars](https://img.shields.io/github/stars/eerotal/LibreSignage?style=social&color=white)](https://github.com/eerotal/LibreSignage/stargazers)  
+  📝 Free, lightweight, self-hosted digital signage solution featuring an in-browser slide editor, collaborative multi-user access control, timeline scheduling, and REST APIs.
 
-- **[FullPageOS (`guysoft/FullPageOS`)](https://github.com)**  
+- **[Concerto](https://github.com/concerto/concerto)** [![GitHub stars](https://img.shields.io/github/stars/concerto/concerto?style=social&color=white)](https://github.com/concerto/concerto/stargazers)  
+  🎓 Classic open-source web-based digital signage platform built in Ruby on Rails, widely adopted by universities and campuses for moderated multi-screen content feeds.
 
-  Purpose-built open-source Raspberry Pi OS distribution that boots straight into a full-screen Chromium kiosk browser displaying a single URL—ideal for Grafana, Home Assistant, and status monitors.
+- **[ScreenLite](https://github.com/screenlite/screenlite)** [![GitHub stars](https://img.shields.io/github/stars/screenlite/screenlite?style=social&color=white)](https://github.com/screenlite/screenlite/stargazers)  
+  💡 Lightweight open-source digital signage management platform focused on rapid deployment, low resource consumption, and intuitive multi-display control.
 
+- **[WebView Kiosk](https://github.com/nktnet1/webview-kiosk)** [![GitHub stars](https://img.shields.io/github/stars/nktnet1/webview-kiosk?style=social&color=white)](https://github.com/nktnet1/webview-kiosk/stargazers)  
+  📱 Minimalist open-source Android app that turns any phone or tablet into a locked-down fullscreen web page kiosk with screen-wake and persistent URL caching.
 
+- **[ScreenTinker](https://github.com/screentinker/screentinker)** [![GitHub stars](https://img.shields.io/github/stars/screentinker/screentinker?style=social&color=white)](https://github.com/screentinker/screentinker/stargazers)  
+  🛠️ Open-source signage management application allowing administrators to broadcast, orchestrate, and control rich multimedia on remote displays and kiosks from any web browser.
 
-- **[Cage (`cage-kiosk/cage`)](https://github.com)**  
+- **[Buildroot-WebKit](https://github.com/TOLDOTECHNIK/buildroot-webkit)** [![GitHub stars](https://img.shields.io/github/stars/TOLDOTECHNIK/buildroot-webkit?style=social&color=white)](https://github.com/TOLDOTECHNIK/buildroot-webkit/stargazers)  
+  ⚡ High-speed Buildroot WebKit fullscreen browser image for Raspberry Pi Zero/W and 3B, engineered for ultra-fast boot times and minimal memory footprint in HTML5 kiosks and video loops.
 
-  Minimalist, rock-solid open-source Wayland kiosk compositor for Linux that runs a single maximized graphical application or browser with zero desktop chrome or window-switching escape paths.
+- **[dividuum/info-beamer](https://github.com/dividuum/info-beamer)** [![GitHub stars](https://img.shields.io/github/stars/dividuum/info-beamer?style=social&color=white)](https://github.com/dividuum/info-beamer/stargazers)  
+  ✨ High-performance multimedia presentation engine for Lua and OpenGL, capable of hardware-accelerated video walls, seamless shader transitions, and live data overlays on Raspberry Pi.
 
+- **[WassGha Digital Signage](https://github.com/wassgha/digital-signage)** [![GitHub stars](https://img.shields.io/github/stars/wassgha/digital-signage?style=social&color=white)](https://github.com/wassgha/digital-signage/stargazers)  
+  📺 Simple self-hosted digital signage software designed to turn screens and smart displays into beautiful multimedia presentations with zero configuration overhead.
 
+- **[Ubuntu Frame](https://github.com/canonical/ubuntu-frame)** [![GitHub stars](https://img.shields.io/github/stars/canonical/ubuntu-frame?style=social&color=white)](https://github.com/canonical/ubuntu-frame/stargazers)  
+  🐧 Canonical's open-source Mir-based fullscreen display server engineered for reliable, secure, and auto-recovering embedded Linux kiosks and IoT digital signage screens.
 
-- **[MagicMirror² (`MagicMirrorOrg/MagicMirror`)](https://github.com)**  
+- **[Porteus Kiosk](https://porteus-kiosk.org)**  
+  🛡️ Read-only, locked-down Gentoo-based Linux OS designed specifically for public web terminals, library computers, and unattended digital signage displays.
 
-  Highly extensible open-source modular information display platform built in Electron/Node.js with hundreds of community modules for calendars, weather, transit, news, and smart-home kiosks.
+---
 
+## 🛠️ Frameworks & Architecture Guide
 
+For sysadmins and engineers architecting custom on-premise digital signage systems:
+1. **CMS & Asset Management:** Deploy **Xibo** or **Anthias** for timed playlist scheduling, multi-zone screen layouts, and media asset caching.
+2. **Kiosk OS & Compositor:** Pair **FullPageOS** or Alpine/Debian Linux with **Cage** (Wayland) to lock down the screen, preventing end users from accessing desktop environments or taskbars.
+3. **Hardware Display Automation:** Use **libCEC** (`cec-client`) via cron scripts to automatically power commercial TVs on before business hours and off after closing, preventing OLED/LCD panel burn-in.
+4. **Fleet Telemetry & Remote Control:** Deploy **RustDesk** or **jxlarrea/kiosk-satellite** for low-latency remote troubleshooting, screen monitoring, and remote URL push across distributed screen clusters.
 
-- **[LibreSignage (`LibreSignage/LibreSignage`)](https://github.com)**  
+---
 
-  Lightweight, self-hosted open-source digital signage system featuring a browser-based slide editor, collaborative user permissions, timeline scheduling, and REST APIs.
+## 🤝 How to Contribute
 
+Contributions to expand and update this ecosystem guide are warmly encouraged!
 
+1. 🍴 Fork the repository.
+2. 📝 Add or update tools in `README.md` following the existing format.
+3. 🔗 Verify that all project links, pricing points, and star badges are accurate.
+4. 🚀 Submit a pull request with a concise description of the addition.
 
-- **[PiSignage (`colloqi/pisignage`)](https://github.com)**  
+---
 
-  Open-source Raspberry Pi digital signage player and Node.js management server supporting synchronized multi-screen playback, offline caching, and remote TV CEC power control.
+## 📈 Star History
 
+[![Star History Chart](https://www.star-history.com/#ishandutta2007/Awesome-Digital-Signage-Kiosk-Display-Management&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Digital-Signage-Kiosk-Display-Management&type=date&legend=top-left)
 
+---
 
-- **[Concerto (`concerto/concerto`)](https://github.com)**  
+## ☕ Support
 
-  Classic open-source Ruby on Rails web-based digital signage platform engineered for universities, campuses, and organizations with moderated content feeds and multi-screen templates.
+If you find this curated list helpful for your deployments or research, consider supporting the maintenance of this repository:
 
+- ⭐ **Star this repository** to help others in the community discover it.
+- 🍴 **Fork & Share** it with your engineering team, sysadmin colleagues, or online communities.
+- ☕ **Sponsor on GitHub Sponsors**: Help fund ongoing maintenance and feature guides on [ishandutta2007's Sponsor Dashboard](https://github.com/sponsors/ishandutta2007) — featuring sponsor tiers for profile recognition, README shoutouts, and prioritized issue assistance!
 
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%99%A5-ff69b4?style=for-the-badge&logo=github-sponsors" alt="Sponsor ishandutta2007" />
+  </a>
+</p>
 
-- **[Porteus Kiosk (`porteus-kiosk`)](https://porteus-kiosk.org)**  
+---
 
-  Read-only, locked-down open-source Gentoo-based Linux operating system engineered specifically for public web kiosks, library terminals, and unattended digital signage screens.
+## ⚠️ Disclaimer & Production Checklist
 
+- 📌 *Disclaimer*: This repository is a community-curated directory for informational and educational purposes. Inclusion does not constitute an endorsement.
+- 🔒 **Security Hardening**: For all unattended public kiosk installations (`FullPageOS`, `FreeKiosk`, `Cage`), ensure you disable virtual terminal switching (`Ctrl+Alt+F1–F7`), disable USB storage auto-mounting, hide browser address/navigation bars, and segregate player devices onto dedicated IoT VLANs.
+- 💾 **Flash Memory Protection**: Use industrial high-endurance microSD cards or configure read-only overlay filesystems (`overlayfs`) on Raspberry Pi and Linux signage boards to safeguard against storage corruption caused by unexpected power cuts.
 
-
-- **[Info-Beamer Open Source (`info-beamer/info-beamer`)](https://github.com)**  
-
-  High-performance open-source Lua/OpenGL presentation engine for Raspberry Pi capable of hardware-accelerated video walls, smooth shader transitions, and live data overlays.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[NixOS Kiosk Configs / Ubuntu Frame (`canonical/ubuntu-frame`)](https://github.com)** for Canonical's open-source Mir-based fullscreen display server engineered for reliable, auto-recovering embedded Linux kiosks.
-
-- **[TRMNL Open-Source E-Ink Firmware & Server (`usetrmnl/byos_fastapi` & `usetrmnl/firmware`)](https://github.com)** for open-source low-power E-Ink desk and wall signage displays with custom webhook/JSON dashboard plugins.
-
-- **[Dashy (`Lissy93/dashy`)](https://github.com)** and **[Homepage (`gethomepage/homepage`)](https://github.com)** for self-hosted open-source status dashboards frequently displayed on NOC/office wall screens via `FullPageOS`.
-
-- **[cec-utils / libCEC (`Pulse-Eight/libcec`)](https://github.com)** for open-source HDMI-CEC command-line utilities enabling cron jobs to automatically power commercial TVs on and off on schedule.
-
-- **[MeshCentral (`Ylianst/MeshCentral`)](https://github.com)** and **[RustDesk (`rustdesk/rustdesk`)](https://github.com)** for self-hosted remote desktop/terminal management to troubleshoot unattended kiosk screens in the field.
-
-
-
-**Frameworks for building custom systems**: Combine **Xibo** or **Anthias** for scheduled multi-asset digital signage playlists, **FullPageOS + Cage** for locked-down Raspberry Pi/Linux browser kiosks, **libCEC** for automated TV power scheduling, and **jxlarrea/kiosk-satellite** for lightweight remote kiosk fleet coordination.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS/hosted or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Support & Share
-
-
-
-If you find this curated list helpful, consider supporting the project:
-
-
-
-- ⭐ **Star this repository** to help others discover it.
-
-- 🍴 **Fork & Share** it with your team, friends, or community on X/Twitter, LinkedIn, and Reddit.
-
-- ☕ **Buy me a coffee / Sponsor** my open-source work on [GitHub Sponsors](https://github.com) — featuring tiers for profile badges, README shoutouts, logo placements, and prioritized bug fixes/features!
-
-
-
-[![Sponsor @ishandutta2007](https://shields.io)](https://github.com)
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Unattended public kiosk screens and digital signage players (`FullPageOS`, `Xibo`, `Anthias`) must disable virtual terminal switching (`Ctrl+Alt+F1–F7`), USB auto-mounting, and address-bar navigation, and should isolate player VLANs from internal corporate networks.
-
-Use code with caution.
-
-• Use industrial high-endurance microSD cards or read-only overlay filesystems (overlayfs) on Raspberry Pi signage players to prevent SD card corruption during sudden power outages.
-
-Made for IT sysadmins, retail & hospitality operators, museum/campus technologists, Raspberry Pi makers, and open-source contributors.
-
-Let's make digital signage and kiosk display management more open, reliable, and self-hostable.
+<div align="center">
+  <sub>Built with ❤️ for IT sysadmins, retail operators, museum technologists, and the open-source community.</sub>
+</div>
