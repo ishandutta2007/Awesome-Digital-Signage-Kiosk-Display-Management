@@ -32,79 +32,31 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Support & Share](#support--share)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global digital signage market is estimated at **$29 billion to $34 billion** in 2026, growing at a steady 7–9% CAGR driven by cloud migration, smart retail media, and programmatic DOOH infrastructure. The sector displays a bifurcated market structure: commercial display hardware manufacturing is **moderately concentrated** (with display giants like Samsung and LG capturing over 50% of the market), whereas the cloud CMS software and device management layer is **highly fragmented**, populated by hundreds of specialized SaaS providers with no single vendor dominating the long tail of deployments.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Yodeck](https://yodeck.com)**  
-
-  Cloud digital signage platform renowned for plug-and-play Raspberry Pi players, multi-zone layout scheduling, live web dashboards, and remote screen health monitoring.
-
-
-
-- **[ScreenCloud](https://screencloud.com)**  
-
-  Enterprise cloud digital signage and workplace communication platform integrating Canva, Power BI, Slack, Google Workspace, and ChromeOS/Android/Windows players.
-
-
-
-- **[OptiSigns](https://optisigns.com)**  
-
-  Cloud digital signage management suite supporting Fire TV, Android, Raspberry Pi, Windows, and Linux screens with 100+ app widgets and split-screen zoning.
-
-
-
-- **[TelemetryTV](https://telemetrytv.com)**  
-
-  Cloud digital signage and real-time BI dashboard broadcasting platform engineered for operational KPI screens, internal communications, and ChromeOS/Linux fleets.
-
-
-
-- **[Raydiant](https://raydiant.com)**  
-
-  Cloud-managed retail and restaurant experience platform uniting digital menu boards, interactive self-service kiosks, background audio, and POS integrations.
-
-
-
-- **[OnSign TV](https://onsign.tv)**  
-
-  Cross-platform cloud digital signage CMS featuring granular playback proof-of-play reports, remote screen screenshots, conditional triggers, and Android/Windows/Linux players.
-
-
-
-- **[NoviSign](https://novisign.com)**  
-
-  Cloud digital signage studio offering drag-and-drop template design, interactive touch-kiosk workflows, social/RSS tickers, and offline media caching.
-
-
-
-- **[Play Digital Signage](https://playsignage.com)**  
-
-  Browser-based cloud digital signage editor and multi-OS player management system supporting live HTML5 embeds, animations, and zone scheduling.
-
-
-
-- **[PosterBooking](https://posterbooking.com)**  
-
-  Accessible cloud digital signage service designed for Amazon Fire TV Sticks, Android TVs, and Raspberry Pi screens with playlist scheduling and white-label options.
-
-
-
-- **[Scala Digital Signage (STRATACACHE)](https://scala.com)**  
-
-  Enterprise retail and public-venue digital signage ecosystem delivering omnichannel media scheduling, sensor/POS-triggered content, and large-scale display fleet governance.
+| Platform | Description | Starting Price | Free Tier / Trial Limits | Estimated Scale (Revenue / Valuation) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Raydiant](https://raydiant.com)** | Cloud-managed retail and restaurant experience platform uniting digital menu boards, interactive kiosks, background audio, and POS integrations. | Starts at **$49.00/screen/month** (Standard plan) | Free trial available on request / demo (no permanent free tier) | **~$100M–$250M valuation** (~$31M–$33M ARR; raised $50M+) |
+| **[ScreenCloud](https://screencloud.com)** | Enterprise cloud digital signage and workplace communication platform integrating Canva, Power BI, Slack, Google Workspace, and ChromeOS/Android/Windows players. | Starts at **$20.00/screen/month** (Core plan, billed annually) | 14-day free trial (up to 3 screens, no credit card required; no permanent free tier) | **~$29.3M annual revenue** (FY2025 UK Companies House filings) |
+| **[Scala Digital Signage (STRATACACHE)](https://scala.com)** | Enterprise retail and public-venue digital signage ecosystem delivering omnichannel media scheduling, sensor/POS-triggered content, and large-scale display fleet governance. | Custom enterprise quotes (~**$20.00+/screen/month** / player license equivalents) | Custom sales proof-of-concept / demo only (no permanent free tier) | **~€18.5M annual revenue** (~€8M ARR; acquired for SEK 265M / ~$28M by Vertiseit) |
+| **[Yodeck](https://yodeck.com)** | Cloud digital signage platform renowned for plug-and-play Raspberry Pi players, multi-zone layout scheduling, live web dashboards, and remote screen health monitoring. | Starts at **$8.00/screen/month** (Basic plan, billed annually) | Permanent free tier for exactly **1 screen** (reverts to paid for 2+ screens); 30-day trial for up to 5 screens | **~$15M–$25M annual revenue** (Deloitte Fast 500 / Inc. 5000, 350k+ screens) |
+| **[OptiSigns](https://optisigns.com)** | Cloud digital signage management suite supporting Fire TV, Android, Raspberry Pi, Windows, and Linux screens with 100+ app widgets and split-screen zoning. | Starts at **$10.00/screen/month** (Standard plan; $9.00/mo billed annually) | Permanent free tier for up to **3 screens** (includes watermark, 25 apps, 1 GB storage); 14-day paid trial | **~$5M–$10M annual revenue** (Estimated SMB scale, 50k+ screens) |
+| **[NoviSign](https://novisign.com)** | Cloud digital signage studio offering drag-and-drop template design, interactive touch-kiosk workflows, social/RSS tickers, and offline media caching. | Starts at **$14.00/screen/month** (Single screen plan, billed annually) | 30-day free trial (full features, no credit card required; no permanent free tier) | **~$6M annual revenue** |
+| **[TelemetryTV](https://telemetrytv.com)** | Cloud digital signage and real-time BI dashboard broadcasting platform engineered for operational KPI screens, internal communications, and ChromeOS/Linux fleets. | Starts at **$8.00/device/month** (TelemetryOS baseline; Core at $18.00/device/mo) | 14-day free trial (access to device logs and proof-of-play; no permanent free tier) | **~$3M–$5M annual revenue** (Bootstrapped SMB scale) |
+| **[OnSign TV](https://onsign.tv)** | Cross-platform cloud digital signage CMS featuring granular playback proof-of-play reports, remote screen screenshots, conditional triggers, and Android/Windows/Linux players. | Starts at **$19.99/player/month** (Core plan, month-to-month) | 14-day free trial (full feature access, no credit card required; no permanent free tier) | **~$3M annual revenue** (Bootstrapped SMB scale) |
+| **[PosterBooking](https://posterbooking.com)** | Accessible cloud digital signage service designed for Amazon Fire TV Sticks, Android TVs, and Raspberry Pi screens with playlist scheduling and white-label options. | Starts at **$6.49/screen/month** (Business plan for additional screens) | Free plan for up to **10 screens** for first 3 months (watermarked); transitions to paid afterwards | **~$1M–$3M annual revenue** (Bootstrapped UK company) |
+| **[Play Digital Signage](https://playsignage.com)** | Browser-based cloud digital signage editor and multi-OS player management system supporting live HTML5 embeds, animations, and zone scheduling. | Starts at **$8.00/screen/month** (Essential plan; $12.00/mo for Pro) | Permanent free tier for **1 screen** (full CMS access); 10-day trial for multi-screen testing | **~$1M–$2.5M annual revenue** (Bootstrapped SMB scale) |
 
 
 
