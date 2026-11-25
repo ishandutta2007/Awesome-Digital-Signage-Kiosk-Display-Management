@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Digital-Signage-Kiosk-Display-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Signage-Kiosk-Display-Management?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Signage-Kiosk-Display-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Signage-Kiosk-Display-Management?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Signage-Kiosk-Display-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Digital-Signage-Kiosk-Display-Management?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Signage-Kiosk-Display-Management/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Digital-Signage-Kiosk-Display-Management" alt="GitHub issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Signage-Kiosk-Display-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" /></a>
@@ -73,75 +73,75 @@ Below is a breakdown of top commercial cloud digital signage CMS providers, deta
 
 Self-hosted digital signage CMS solutions, Wayland kiosk compositors, locked-down browser runners, and remote display utilities.
 
-*Sorted descending by GitHub stars count:*
+*Sorted descending by GitHub_Stars_Count:*
 
-- **[RustDesk](https://github.com/rustdesk/rustdesk)** [![GitHub stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=social&color=white)](https://github.com/rustdesk/rustdesk/stargazers)  
+- **[RustDesk](https://github.com/rustdesk/rustdesk)** [![GitHub_Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=social&color=white)](https://github.com/rustdesk/rustdesk/stargazers)  
   ⚡ Fast, open-source self-hosted remote desktop software written in Rust. The gold standard for securely remoting into unattended kiosk computers, digital signage players, and edge terminals behind firewalls without commercial subscriptions.
 
-- **[Homepage](https://github.com/gethomepage/homepage)** [![GitHub stars](https://img.shields.io/github/stars/gethomepage/homepage?style=social&color=white)](https://github.com/gethomepage/homepage/stargazers)  
+- **[Homepage](https://github.com/gethomepage/homepage)** [![GitHub_Stars](https://img.shields.io/github/stars/gethomepage/homepage?style=social&color=white)](https://github.com/gethomepage/homepage/stargazers)  
   📊 Highly customizable, lightweight, and modern service dashboard with instant Docker and API integrations, frequently deployed as an always-on status wall display in NOCs and IT office kiosks.
 
-- **[Dashy](https://github.com/lissy93/dashy)** [![GitHub stars](https://img.shields.io/github/stars/lissy93/dashy?style=social&color=white)](https://github.com/lissy93/dashy/stargazers)  
+- **[Dashy](https://github.com/lissy93/dashy)** [![GitHub_Stars](https://img.shields.io/github/stars/lissy93/dashy?style=social&color=white)](https://github.com/lissy93/dashy/stargazers)  
   🚀 Ultimate open-source dashboard application equipped with 50+ built-in widgets, real-time status checking, multiple themes, and a visual UI editor tailored for wall-mounted information kiosks.
 
-- **[MagicMirror²](https://github.com/MagicMirrorOrg/MagicMirror)** [![GitHub stars](https://img.shields.io/github/stars/MagicMirrorOrg/MagicMirror?style=social&color=white)](https://github.com/MagicMirrorOrg/MagicMirror/stargazers)  
+- **[MagicMirror²](https://github.com/MagicMirrorOrg/MagicMirror)** [![GitHub_Stars](https://img.shields.io/github/stars/MagicMirrorOrg/MagicMirror?style=social&color=white)](https://github.com/MagicMirrorOrg/MagicMirror/stargazers)  
   🪞 Modular open-source smart mirror and information display platform with an ecosystem of hundreds of community plugins for calendars, weather forecast animations, RSS news, transit schedules, and IoT home controls.
 
-- **[FullPageOS](https://github.com/guysoft/FullPageOS)** [![GitHub stars](https://img.shields.io/github/stars/guysoft/FullPageOS?style=social&color=white)](https://github.com/guysoft/FullPageOS/stargazers)  
+- **[FullPageOS](https://github.com/guysoft/FullPageOS)** [![GitHub_Stars](https://img.shields.io/github/stars/guysoft/FullPageOS?style=social&color=white)](https://github.com/guysoft/FullPageOS/stargazers)  
   🥧 Purpose-built Raspberry Pi OS image that boots straight into a fullscreen, hardware-accelerated Chromium kiosk browser displaying any target URL—perfect for Grafana monitors and web-based signage.
 
-- **[Anthias — formerly Screenly OSE](https://github.com/Screenly/Anthias)** [![GitHub stars](https://img.shields.io/github/stars/Screenly/Anthias?style=social&color=white)](https://github.com/Screenly/Anthias/stargazers)  
+- **[Anthias — formerly Screenly OSE](https://github.com/Screenly/Anthias)** [![GitHub_Stars](https://img.shields.io/github/stars/Screenly/Anthias?style=social&color=white)](https://github.com/Screenly/Anthias/stargazers)  
   📺 Most popular dedicated open-source Raspberry Pi digital signage software. Features an intuitive web UI and REST API to schedule 1080p/4K video loops, images, and live web assets.
 
-- **[jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite)** [![GitHub stars](https://img.shields.io/github/stars/jxlarrea/kiosk-satellite?style=social&color=white)](https://github.com/jxlarrea/kiosk-satellite/stargazers)  
+- **[jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite)** [![GitHub_Stars](https://img.shields.io/github/stars/jxlarrea/kiosk-satellite?style=social&color=white)](https://github.com/jxlarrea/kiosk-satellite/stargazers)  
   🛰️ Dedicated open-source kiosk display manager and tablet lockdown runner built from the ground up for Home Assistant, wall dashboards, and distributed screen nodes.
 
-- **[Cage](https://github.com/cage-kiosk/cage)** [![GitHub stars](https://img.shields.io/github/stars/cage-kiosk/cage?style=social&color=white)](https://github.com/cage-kiosk/cage/stargazers)  
+- **[Cage](https://github.com/cage-kiosk/cage)** [![GitHub_Stars](https://img.shields.io/github/stars/cage-kiosk/cage?style=social&color=white)](https://github.com/cage-kiosk/cage/stargazers)  
   🔒 Minimalist, unbreakable Wayland kiosk compositor for Linux that runs a single maximized graphical application or browser with zero desktop chrome or window-switching escape vectors.
 
-- **[Immich Kiosk](https://github.com/damongolding/immich-kiosk)** [![GitHub stars](https://img.shields.io/github/stars/damongolding/immich-kiosk?style=social&color=white)](https://github.com/damongolding/immich-kiosk/stargazers)  
+- **[Immich Kiosk](https://github.com/damongolding/immich-kiosk)** [![GitHub_Stars](https://img.shields.io/github/stars/damongolding/immich-kiosk?style=social&color=white)](https://github.com/damongolding/immich-kiosk/stargazers)  
   🖼️ Lightweight, highly configurable slideshow application for displaying media assets from self-hosted Immich instances on browser screens, tablets, and smart picture frames.
 
-- **[TRMNL Firmware](https://github.com/usetrmnl/trmnl-firmware)** [![GitHub stars](https://img.shields.io/github/stars/usetrmnl/trmnl-firmware?style=social&color=white)](https://github.com/usetrmnl/trmnl-firmware/stargazers)  
+- **[TRMNL Firmware](https://github.com/usetrmnl/trmnl-firmware)** [![GitHub_Stars](https://img.shields.io/github/stars/usetrmnl/trmnl-firmware?style=social&color=white)](https://github.com/usetrmnl/trmnl-firmware/stargazers)  
   📟 Open-source firmware for ultra-low-power E-Ink and ePaper display terminals, rendering battery-efficient desk, shelf, and wall signage updated via webhook plugins.
 
-- **[libCEC](https://github.com/Pulse-Eight/libcec)** [![GitHub stars](https://img.shields.io/github/stars/Pulse-Eight/libcec?style=social&color=white)](https://github.com/Pulse-Eight/libcec/stargazers)  
+- **[libCEC](https://github.com/Pulse-Eight/libcec)** [![GitHub_Stars](https://img.shields.io/github/stars/Pulse-Eight/libcec?style=social&color=white)](https://github.com/Pulse-Eight/libcec/stargazers)  
   🔌 Industry-standard HDMI-CEC communication library and command-line utilities (`cec-client`) enabling automated cron scripts to power commercial TVs and monitors on and off over HDMI.
 
-- **[FreeKiosk](https://github.com/RushB-fr/freekiosk)** [![GitHub stars](https://img.shields.io/github/stars/RushB-fr/freekiosk?style=social&color=white)](https://github.com/RushB-fr/freekiosk/stargazers)  
+- **[FreeKiosk](https://github.com/RushB-fr/freekiosk)** [![GitHub_Stars](https://img.shields.io/github/stars/RushB-fr/freekiosk?style=social&color=white)](https://github.com/RushB-fr/freekiosk/stargazers)  
   📱 Open-source Android kiosk mode and tablet lockdown app for digital signage, interactive dashboards, and POS devices; free self-hosted alternative to Fully Kiosk Browser.
 
-- **[piSignage](https://github.com/colloqi/piSignage)** [![GitHub stars](https://img.shields.io/github/stars/colloqi/piSignage?style=social&color=white)](https://github.com/colloqi/piSignage/stargazers)  
+- **[piSignage](https://github.com/colloqi/piSignage)** [![GitHub_Stars](https://img.shields.io/github/stars/colloqi/piSignage?style=social&color=white)](https://github.com/colloqi/piSignage/stargazers)  
   🥧 Open-source Raspberry Pi digital signage player and Node.js management server supporting synchronized multi-screen playback, offline caching, and remote TV CEC power control.
 
-- **[Xibo](https://github.com/xibosignage/xibo)** [![GitHub stars](https://img.shields.io/github/stars/xibosignage/xibo?style=social&color=white)](https://github.com/xibosignage/xibo/stargazers)  
+- **[Xibo](https://github.com/xibosignage/xibo)** [![GitHub_Stars](https://img.shields.io/github/stars/xibosignage/xibo?style=social&color=white)](https://github.com/xibosignage/xibo/stargazers)  
   🏢 Enterprise-grade open-source Digital Signage CMS featuring multi-zone layout designers, campaign scheduling, proof-of-play analytics, webhooks, and Docker/Linux/Windows/Android players.
 
-- **[LibreSignage](https://github.com/eerotal/LibreSignage)** [![GitHub stars](https://img.shields.io/github/stars/eerotal/LibreSignage?style=social&color=white)](https://github.com/eerotal/LibreSignage/stargazers)  
+- **[LibreSignage](https://github.com/eerotal/LibreSignage)** [![GitHub_Stars](https://img.shields.io/github/stars/eerotal/LibreSignage?style=social&color=white)](https://github.com/eerotal/LibreSignage/stargazers)  
   📝 Free, lightweight, self-hosted digital signage solution featuring an in-browser slide editor, collaborative multi-user access control, timeline scheduling, and REST APIs.
 
-- **[Concerto](https://github.com/concerto/concerto)** [![GitHub stars](https://img.shields.io/github/stars/concerto/concerto?style=social&color=white)](https://github.com/concerto/concerto/stargazers)  
+- **[Concerto](https://github.com/concerto/concerto)** [![GitHub_Stars](https://img.shields.io/github/stars/concerto/concerto?style=social&color=white)](https://github.com/concerto/concerto/stargazers)  
   🎓 Classic open-source web-based digital signage platform built in Ruby on Rails, widely adopted by universities and campuses for moderated multi-screen content feeds.
 
-- **[ScreenLite](https://github.com/screenlite/screenlite)** [![GitHub stars](https://img.shields.io/github/stars/screenlite/screenlite?style=social&color=white)](https://github.com/screenlite/screenlite/stargazers)  
+- **[ScreenLite](https://github.com/screenlite/screenlite)** [![GitHub_Stars](https://img.shields.io/github/stars/screenlite/screenlite?style=social&color=white)](https://github.com/screenlite/screenlite/stargazers)  
   💡 Lightweight open-source digital signage management platform focused on rapid deployment, low resource consumption, and intuitive multi-display control.
 
-- **[WebView Kiosk](https://github.com/nktnet1/webview-kiosk)** [![GitHub stars](https://img.shields.io/github/stars/nktnet1/webview-kiosk?style=social&color=white)](https://github.com/nktnet1/webview-kiosk/stargazers)  
+- **[WebView Kiosk](https://github.com/nktnet1/webview-kiosk)** [![GitHub_Stars](https://img.shields.io/github/stars/nktnet1/webview-kiosk?style=social&color=white)](https://github.com/nktnet1/webview-kiosk/stargazers)  
   📱 Minimalist open-source Android app that turns any phone or tablet into a locked-down fullscreen web page kiosk with screen-wake and persistent URL caching.
 
-- **[ScreenTinker](https://github.com/screentinker/screentinker)** [![GitHub stars](https://img.shields.io/github/stars/screentinker/screentinker?style=social&color=white)](https://github.com/screentinker/screentinker/stargazers)  
+- **[ScreenTinker](https://github.com/screentinker/screentinker)** [![GitHub_Stars](https://img.shields.io/github/stars/screentinker/screentinker?style=social&color=white)](https://github.com/screentinker/screentinker/stargazers)  
   🛠️ Open-source signage management application allowing administrators to broadcast, orchestrate, and control rich multimedia on remote displays and kiosks from any web browser.
 
-- **[Buildroot-WebKit](https://github.com/TOLDOTECHNIK/buildroot-webkit)** [![GitHub stars](https://img.shields.io/github/stars/TOLDOTECHNIK/buildroot-webkit?style=social&color=white)](https://github.com/TOLDOTECHNIK/buildroot-webkit/stargazers)  
+- **[Buildroot-WebKit](https://github.com/TOLDOTECHNIK/buildroot-webkit)** [![GitHub_Stars](https://img.shields.io/github/stars/TOLDOTECHNIK/buildroot-webkit?style=social&color=white)](https://github.com/TOLDOTECHNIK/buildroot-webkit/stargazers)  
   ⚡ High-speed Buildroot WebKit fullscreen browser image for Raspberry Pi Zero/W and 3B, engineered for ultra-fast boot times and minimal memory footprint in HTML5 kiosks and video loops.
 
-- **[dividuum/info-beamer](https://github.com/dividuum/info-beamer)** [![GitHub stars](https://img.shields.io/github/stars/dividuum/info-beamer?style=social&color=white)](https://github.com/dividuum/info-beamer/stargazers)  
+- **[dividuum/info-beamer](https://github.com/dividuum/info-beamer)** [![GitHub_Stars](https://img.shields.io/github/stars/dividuum/info-beamer?style=social&color=white)](https://github.com/dividuum/info-beamer/stargazers)  
   ✨ High-performance multimedia presentation engine for Lua and OpenGL, capable of hardware-accelerated video walls, seamless shader transitions, and live data overlays on Raspberry Pi.
 
-- **[WassGha Digital Signage](https://github.com/wassgha/digital-signage)** [![GitHub stars](https://img.shields.io/github/stars/wassgha/digital-signage?style=social&color=white)](https://github.com/wassgha/digital-signage/stargazers)  
+- **[WassGha Digital Signage](https://github.com/wassgha/digital-signage)** [![GitHub_Stars](https://img.shields.io/github/stars/wassgha/digital-signage?style=social&color=white)](https://github.com/wassgha/digital-signage/stargazers)  
   📺 Simple self-hosted digital signage software designed to turn screens and smart displays into beautiful multimedia presentations with zero configuration overhead.
 
-- **[Ubuntu Frame](https://github.com/canonical/ubuntu-frame)** [![GitHub stars](https://img.shields.io/github/stars/canonical/ubuntu-frame?style=social&color=white)](https://github.com/canonical/ubuntu-frame/stargazers)  
+- **[Ubuntu Frame](https://github.com/canonical/ubuntu-frame)** [![GitHub_Stars](https://img.shields.io/github/stars/canonical/ubuntu-frame?style=social&color=white)](https://github.com/canonical/ubuntu-frame/stargazers)  
   🐧 Canonical's open-source Mir-based fullscreen display server engineered for reliable, secure, and auto-recovering embedded Linux kiosks and IoT digital signage screens.
 
 - **[Porteus Kiosk](https://porteus-kiosk.org)**  
@@ -165,7 +165,7 @@ Contributions to expand and update this ecosystem guide are warmly encouraged!
 
 1. 🍴 Fork the repository.
 2. 📝 Add or update tools in `README.md` following the existing format.
-3. 🔗 Verify that all project links, pricing points, and star badges are accurate.
+3. 🔗 Verify that all project links, pricing points, and Stars_Badges are accurate.
 4. 🚀 Submit a pull request with a concise description of the addition.
 
 ---
